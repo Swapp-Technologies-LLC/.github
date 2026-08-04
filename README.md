@@ -16,15 +16,6 @@ Whether it’s static site automation, local containerized workflows, or client-
 
 ---
 
-### ⚙️ &nbsp;Organization Analytics
-
-<p align="center">
-<a href="https://github.com/Swapp-Technologies-LLC">
-  <img height="180em" src="https://github-readme-stats-hola-there.vercel.app/api?username=Swapp-Technologies-LLC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-hola-there.vercel.app/api/top-langs/?username=Swapp-Technologies-LLC&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <h2 align="center">
 🤝🏻 &nbsp;Connect with Us
 </h2>
